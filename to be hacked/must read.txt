@@ -1,0 +1,8 @@
+try to break the code of this program while you have the application only
+notice :
+.........
+you do not know the compiler of this app and you want to know the arrithmatic 
+function in this app
+........
+good luck
+^_^
